@@ -1,0 +1,18 @@
+{
+  "name": "dhardy97-328/pets",
+  "description": "Pets Project",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Dylan Hardy",
+      "email": "dhardy8@mail.greenriver.edu"
+    },
+    {
+      "name": "Jake Donaldson",
+      "email": "Jdonaldson8@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
